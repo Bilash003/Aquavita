@@ -1,0 +1,4 @@
+# Cloudflare Pages configuration (Git-connected Pages project).
+name = "aquavita"
+pages_build_output_dir = "./dist"
+compatibility_date = "2026-10-13"

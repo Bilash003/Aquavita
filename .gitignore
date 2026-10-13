@@ -1,0 +1,13 @@
+# Never commit secrets or development data
+.env
+.env.*
+!.env.example
+.dev.vars*
+service_acc_json.json
+*service-account*.json
+*serviceAccount*.json
+*.pem
+node_modules/
+.git/
+.wrangler/
+*.zip

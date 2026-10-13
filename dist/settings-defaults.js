@@ -1,0 +1,1 @@
+export const defaultSettings={brand:'AquaVita',tagline_en:'Know Your Water, Protect Your Health',tagline_bn:'আপনার পানিকে জানুন, আপনার স্বাস্থ্য সুরক্ষিত রাখুন',heading_en:'Choose your location',heading_bn:'আপনার ভবন বেছে নিন',accent:'#275b45',background:'#dcefe3',logo_url:'',intro_enabled:true,translations_en:{},translations_bn:{}};
